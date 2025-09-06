@@ -1,5 +1,5 @@
 # ESP32C3-WROOM-DevBoard
-ESP32-WROOM-DevBoardの開発用ボードです。\
+ESP32C3-WROOM-DevBoardの開発用ボードです。\
 5列ピッチのブレッドボードでも利用できるよう、基板サイズは細くなっています。\
 実機の製作及び動作確認はまだ行っていません。
 
