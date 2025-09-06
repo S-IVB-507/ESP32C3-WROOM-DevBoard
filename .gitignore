@@ -1,0 +1,18 @@
+
+#backup files
+*.bak
+*.bck
+*.kicad_prl
+
+sym-lib-table
+fp-info-cache
+fp-lib-table
+
+#backup folder
+*-backups/
+
+#3D model files
+Models/
+
+#gerber files folder
+gerber/
